@@ -2,9 +2,9 @@
  * 
  */
 /**
- * 主包
+ * 模型包
  * 
  * @author BeerHall
  *
  */
-package main;
+package models;

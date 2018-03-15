@@ -4,6 +4,8 @@
 package models;
 
 import java.time.Duration;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 
 /**
  * SRT对象
@@ -12,11 +14,14 @@ import java.time.Duration;
  *
  */
 public class SRTObj {
+  /**
+   * 日志工具
+   */
+  private Logger log = LogManager.getLogger(SRTObj.class.getName());
 
   /**
    * 序号
    */
-
   private int index;
 
   /*
@@ -56,7 +61,42 @@ public class SRTObj {
    * @param _text SRT文本
    */
   public SRTObj(String _text) {
-    // TODO
+    log.debug("从文本构造SRTObj：" + this.hashCode());
+    String[] lines = _text.split("\n");
+    setIndex(Integer.parseInt(lines[0]));
+    StringBuilder sb = new StringBuilder();
+    for (int i = 2; i < lines.length; i++) {
+      sb.append(lines[i] + "\n");
+    }
+    setText(sb.toString());
+
+    String[] durations = lines[1].split("-->");
+    setStart(getDuration(durations[0]));
+    setEnd(getDuration(durations[1]));
+  }
+
+  /**
+   * 获取时间
+   * 
+   * @param str 字符串
+   * @return 获取的时间
+   */
+  private Duration getDuration(String str) {
+    str = str.trim();
+    String[] times = str.split(",");
+    String[] time3 = times[0].split(":");
+
+    long millis = Long.parseLong(times[1]);
+    long seconds = Long.parseLong(time3[2]);
+    long minutes = Long.parseLong(time3[1]);
+    long hours = Long.parseLong(time3[0]);
+
+    Duration duration = Duration.ofMillis(millis);
+    duration = duration.plusSeconds(seconds);
+    duration = duration.plusMinutes(minutes);
+    duration = duration.plusHours(hours);
+
+    return duration;
   }
 
   /**
@@ -70,6 +110,7 @@ public class SRTObj {
    * @param index the index to set
    */
   public void setIndex(int index) {
+    log.debug("设置SRTObj：" + this.hashCode() + "序号为" + index);
     this.index = index;
   }
 
@@ -80,19 +121,12 @@ public class SRTObj {
     return start;
   }
 
-  /**
-   * 解析SRT文本
-   * 
-   * @param _text SRT文本
-   */
-  private void parse(String _text) {
-    // TODO
-  }
 
   /**
    * @param start the start to set
    */
   public void setStart(Duration start) {
+    log.debug("设置SRTObj：" + this.hashCode() + "开始时间为" + start);
     this.start = start;
   }
 
@@ -107,6 +141,7 @@ public class SRTObj {
    * @param end the end to set
    */
   public void setEnd(Duration end) {
+    log.debug("设置SRTObj：" + this.hashCode() + "结束时间为" + end);
     this.end = end;
   }
 

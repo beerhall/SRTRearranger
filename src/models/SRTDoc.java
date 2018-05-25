@@ -4,9 +4,12 @@
 package models;
 
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
+import java.time.Duration;
 import java.util.ArrayList;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -67,9 +70,19 @@ public class SRTDoc {
    * 输出
    * 
    * @param file_output 输出文件
+   * @throws IOException
    */
-  public void output(File file_output) {
-    // TODO
+  public void output(File file_output) throws IOException {
+    FileWriter fw = new FileWriter(file_output);
+    BufferedWriter bw = new BufferedWriter(fw);
+    for (SRTObj obj : this.getList()) {
+      bw.write(obj.getIndex() + "\n");
+      bw.write(getTimeString(obj.getStart())+" --> "+getTimeString(obj.getEnd())+"\n");
+      bw.write(obj.getText()+"\n");
+      bw.write("\n");
+    }
+    bw.close();
+    fw.close();
   }
 
   /**
@@ -98,6 +111,14 @@ public class SRTDoc {
    */
   public void setList(ArrayList<SRTObj> list) {
     this.list = list;
+  }
+
+  private String getTimeString(Duration duration) {
+    int hours = (int) duration.toHours();
+    int mins = (int) (duration.toMinutes() - hours * 60);
+    int seconds = (int) (duration.getSeconds() - duration.toMinutes() * 60);
+    int milles = (int) (duration.toMillis() - duration.getSeconds() * 1000);
+    return String.format("%02d:%02d:%02d,%03d", hours,mins,seconds,milles);
   }
 
 }

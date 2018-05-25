@@ -1,0 +1,1404 @@
+1
+00:00:00,000 --> 00:00:01,620
+hi everybody at the Staten Island
+
+2
+00:00:01,620 --> 00:00:04,410
+community my name is Don Linden I'm the
+
+3
+00:00:04,410 --> 00:00:06,899
+game director for Clara for it seems to
+
+4
+00:00:06,899 --> 00:00:09,059
+me that hats pound for had not an easy
+
+5
+00:00:09,059 --> 00:00:11,250
+start because there were a lot of maybe
+
+6
+00:00:11,250 --> 00:00:13,559
+a little bit disappointed fans of the
+
+7
+00:00:13,559 --> 00:00:16,440
+fur art nevertheless the game sold more
+
+8
+00:00:16,440 --> 00:00:19,500
+than 1 million copies now how do you see
+
+9
+00:00:19,500 --> 00:00:24,630
+this somehow paradoxical point well it's
+
+10
+00:00:24,630 --> 00:00:32,520
+one of those things where and what I saw
+
+11
+00:00:32,520 --> 00:00:34,440
+the dogs were in fact was that you know
+
+12
+00:00:34,440 --> 00:00:36,630
+his people some people were angry in the
+
+13
+00:00:36,630 --> 00:00:38,989
+beginning it still played the game a lot
+
+14
+00:00:38,989 --> 00:00:41,250
+I'd say you have someone complaining
+
+15
+00:00:41,250 --> 00:00:43,410
+like oh this game I don't like this game
+
+16
+00:00:43,410 --> 00:00:47,340
+you go but you played like 1200 hours of
+
+17
+00:00:47,340 --> 00:00:55,649
+it say it's a little bit with the
+
+18
+00:00:55,649 --> 00:00:59,070
+perception right because I really wanted
+
+19
+00:00:59,070 --> 00:01:00,239
+to take one more in a different
+
+20
+00:01:00,239 --> 00:01:03,690
+direction from our country in fact of
+
+21
+00:01:03,690 --> 00:01:05,580
+all our games that kind of be done by
+
+22
+00:01:05,580 --> 00:01:08,159
+different people really different as
+
+23
+00:01:08,159 --> 00:01:11,760
+well so I knew that some people might
+
+24
+00:01:11,760 --> 00:01:14,400
+not like the direction I try to balance
+
+25
+00:01:14,400 --> 00:01:16,020
+of thanks you know try and make
+
+26
+00:01:16,020 --> 00:01:19,380
+everybody happy but in the end like we
+
+27
+00:01:19,380 --> 00:01:21,540
+said in the panel it comes time to make
+
+28
+00:01:21,540 --> 00:01:23,310
+it the game that you want this wall
+
+29
+00:01:23,310 --> 00:01:25,080
+right I don't want to make a game that I
+
+30
+00:01:25,080 --> 00:01:28,890
+don't totally agree and I fought like
+
+31
+00:01:28,890 --> 00:01:31,259
+the whole the sort of really narrow
+
+32
+00:01:31,259 --> 00:01:34,170
+historical thing very micro heavy that
+
+33
+00:01:34,170 --> 00:01:36,990
+what he was can I'd run its course I
+
+34
+00:01:36,990 --> 00:01:38,640
+didn't really know how could you prove
+
+35
+00:01:38,640 --> 00:01:40,829
+that without say drop him the amount of
+
+36
+00:01:40,829 --> 00:01:43,110
+detail but people who liked at all oh
+
+37
+00:01:43,110 --> 00:01:45,689
+boy anyway we're doing now well we
+
+38
+00:01:45,689 --> 00:01:47,430
+didn't know on release was that it was
+
+39
+00:01:47,430 --> 00:01:49,229
+gonna be really really popular in old
+
+40
+00:01:49,229 --> 00:01:51,479
+history so if you notice the early stuff
+
+41
+00:01:51,479 --> 00:01:53,189
+wasn't that as much
+
+42
+00:01:53,189 --> 00:01:55,409
+oops are adding more more packs in it
+
+43
+00:01:55,409 --> 00:01:58,020
+that proven to be really really popular
+
+44
+00:01:58,020 --> 00:02:01,439
+yeah that's point my next point that's
+
+45
+00:02:01,439 --> 00:02:04,020
+one for seemed to me more to be sandbox
+
+46
+00:02:04,020 --> 00:02:07,500
+game and now also about alternative
+
+47
+00:02:07,500 --> 00:02:10,128
+history then I work for two simulation
+
+48
+00:02:10,128 --> 00:02:14,370
+instead was this deep basic game design
+
+49
+00:02:14,370 --> 00:02:17,760
+decision early on I won't solve to go
+
+50
+00:02:17,760 --> 00:02:21,840
+that direction but the the game is
+
+51
+00:02:21,840 --> 00:02:24,120
+designed in a way that it has to sort of
+
+52
+00:02:24,120 --> 00:02:26,430
+simulation and then I put things like
+
+53
+00:02:26,430 --> 00:02:30,870
+focus trees to restrict action system to
+
+54
+00:02:30,870 --> 00:02:33,360
+make it behave where it was like how
+
+55
+00:02:33,360 --> 00:02:35,519
+free was built around just AI
+
+56
+00:02:35,519 --> 00:02:37,620
+decision-making they were scripted which
+
+57
+00:02:37,620 --> 00:02:39,629
+is what Brooks alright this way if
+
+58
+00:02:39,629 --> 00:02:40,860
+something started going on this
+
+59
+00:02:40,860 --> 00:02:43,349
+treatment I figured this would be a much
+
+60
+00:02:43,349 --> 00:02:45,450
+more flexible way of doing it we still
+
+61
+00:02:45,450 --> 00:02:47,099
+have some ways to go when it comes to
+
+62
+00:02:47,099 --> 00:02:49,769
+some of the focuses interacting and we
+
+63
+00:02:49,769 --> 00:02:50,910
+have ways when you start going old
+
+64
+00:02:50,910 --> 00:02:53,340
+history and it comes from all of the
+
+65
+00:02:53,340 --> 00:02:54,660
+blocks hitting is almost going to be
+
+66
+00:02:54,660 --> 00:02:57,799
+some some cases there's something right
+
+67
+00:02:57,799 --> 00:03:02,400
+yeah yeah it's basically in time so I
+
+68
+00:03:02,400 --> 00:03:03,959
+didn't really know it's gonna pan out so
+
+69
+00:03:03,959 --> 00:03:05,670
+we didn't put that much effort into it
+
+70
+00:03:05,670 --> 00:03:07,680
+let me know we're trying Bowser effect
+
+71
+00:03:07,680 --> 00:03:10,650
+between historical and a circle okay
+
+72
+00:03:10,650 --> 00:03:14,099
+um in the upcoming patch or did you see
+
+73
+00:03:14,099 --> 00:03:16,650
+I don't know few who will be introduced
+
+74
+00:03:16,650 --> 00:03:22,470
+you told us here will be yeah as I
+
+75
+00:03:22,470 --> 00:03:24,200
+talked about in the panel as well
+
+76
+00:03:24,200 --> 00:03:26,940
+imagine maintaining two games one
+
+77
+00:03:26,940 --> 00:03:30,180
+without fuel how would I even ask them
+
+78
+00:03:30,180 --> 00:03:32,220
+possible here starts on the tank right
+
+79
+00:03:32,220 --> 00:03:34,680
+yeah if the tank is really good but it
+
+80
+00:03:34,680 --> 00:03:36,299
+requires for you and then you remove the
+
+81
+00:03:36,299 --> 00:03:37,590
+fuel like what it would have been very
+
+82
+00:03:37,590 --> 00:03:40,680
+thing for tanks and that was a point a
+
+83
+00:03:40,680 --> 00:03:43,470
+lot of players who wanted how will this
+
+84
+00:03:43,470 --> 00:03:48,799
+change the gameplay few yeah it will
+
+85
+00:03:48,799 --> 00:03:51,209
+generally it means that you're gonna
+
+86
+00:03:51,209 --> 00:03:53,540
+need to think about when you use your
+
+87
+00:03:53,540 --> 00:03:56,069
+use the stuff the users feel right
+
+88
+00:03:56,069 --> 00:03:59,310
+UK Konami just go like I'm gonna point
+
+89
+00:03:59,310 --> 00:04:00,960
+down my entire Navy
+
+90
+00:04:00,960 --> 00:04:03,150
+and will not move it and it's just gonna
+
+91
+00:04:03,150 --> 00:04:05,430
+all be there because you're not gonna
+
+92
+00:04:05,430 --> 00:04:06,780
+have the fuel to do that kind of stuff
+
+93
+00:04:06,780 --> 00:04:08,700
+you can't around the entire Navy even if
+
+94
+00:04:08,700 --> 00:04:10,400
+you're UK with a lot of resources
+
+95
+00:04:10,400 --> 00:04:13,800
+overseas and stuff it's not really
+
+96
+00:04:13,800 --> 00:04:16,620
+practical and we'll see balance wise
+
+97
+00:04:16,620 --> 00:04:18,450
+America so we'll talk because they've
+
+98
+00:04:18,450 --> 00:04:22,230
+did the pilot resourcefully will see
+
+99
+00:04:22,230 --> 00:04:24,780
+we're in the balance wise there for
+
+100
+00:04:24,780 --> 00:04:26,850
+Japan very much so you don't need to be
+
+101
+00:04:26,850 --> 00:04:28,340
+smart with the early you're maybe
+
+102
+00:04:28,340 --> 00:04:31,140
+they're gonna do but to offset because
+
+103
+00:04:31,140 --> 00:04:33,390
+on these nations now like Germany and
+
+104
+00:04:33,390 --> 00:04:35,520
+Japan I'm gonna have a little tougher
+
+105
+00:04:35,520 --> 00:04:37,950
+Mabley I mean they have a pretty tough
+
+106
+00:04:37,950 --> 00:04:39,660
+time but there are some sneaky things
+
+107
+00:04:39,660 --> 00:04:42,660
+you can do right to get around it we're
+
+108
+00:04:42,660 --> 00:04:44,820
+trying to bars that up by changing some
+
+109
+00:04:44,820 --> 00:04:46,500
+of the other mechanics to kind of
+
+110
+00:04:46,500 --> 00:04:49,080
+benefit them so I'm making raiding much
+
+111
+00:04:49,080 --> 00:04:51,420
+harder to stop and much more impactful
+
+112
+00:04:51,420 --> 00:04:55,650
+and things like that so so even running
+
+113
+00:04:55,650 --> 00:04:57,240
+a small Navy should be something that
+
+114
+00:04:57,240 --> 00:04:59,430
+you want to do rather than I feel like
+
+115
+00:04:59,430 --> 00:05:01,320
+the way you play now is like and their
+
+116
+00:05:01,320 --> 00:05:03,900
+focus on me there I don't at all you
+
+117
+00:05:03,900 --> 00:05:05,910
+know so it should be very good battle
+
+118
+00:05:05,910 --> 00:05:08,430
+back to just have science and it's the
+
+119
+00:05:08,430 --> 00:05:12,090
+same point with tanks for Germany yeah
+
+120
+00:05:12,090 --> 00:05:15,750
+so if you look at tanks and stuff the
+
+121
+00:05:15,750 --> 00:05:17,610
+difference it will do right because now
+
+122
+00:05:17,610 --> 00:05:20,670
+the way it works is that oh it gets kind
+
+123
+00:05:20,670 --> 00:05:23,640
+of calculated to you know your your
+
+124
+00:05:23,640 --> 00:05:26,760
+lifetime of fuel usage it is built into
+
+125
+00:05:26,760 --> 00:05:29,040
+like the the tanks that you build from
+
+126
+00:05:29,040 --> 00:05:31,500
+the beginning it creates a little weird
+
+127
+00:05:31,500 --> 00:05:34,020
+thing that you can't really build tanks
+
+128
+00:05:34,020 --> 00:05:36,210
+during a period you don't have fuel
+
+129
+00:05:36,210 --> 00:05:38,190
+where's like after you'll actually be
+
+130
+00:05:38,190 --> 00:05:41,100
+able to build tanks and then capture a
+
+131
+00:05:41,100 --> 00:05:43,110
+source of fuel and then start running
+
+132
+00:05:43,110 --> 00:05:45,270
+and stuff like that so it's gonna be
+
+133
+00:05:45,270 --> 00:05:48,060
+much more less fragile I think that kind
+
+134
+00:05:48,060 --> 00:05:50,820
+of stuff so you can still kind of
+
+135
+00:05:50,820 --> 00:05:52,380
+prepare stuff even if you're temporarily
+
+136
+00:05:52,380 --> 00:05:54,360
+missing and I'm you manage to get access
+
+137
+00:05:54,360 --> 00:05:57,390
+I think what it will mean though is that
+
+138
+00:05:57,390 --> 00:06:00,720
+we can make tanks stronger because we
+
+139
+00:06:00,720 --> 00:06:02,490
+can own limit how much you can use them
+
+140
+00:06:02,490 --> 00:06:04,620
+how much effectively in your armor they
+
+141
+00:06:04,620 --> 00:06:06,840
+are with the current system
+
+142
+00:06:06,840 --> 00:06:07,249
+right
+
+143
+00:06:07,249 --> 00:06:09,259
+effectively you could have a theory
+
+144
+00:06:09,259 --> 00:06:12,799
+around like a full tank army if we have
+
+145
+00:06:12,799 --> 00:06:15,799
+made them as comparatively good as I
+
+146
+00:06:15,799 --> 00:06:19,369
+kind of wanted but now there's a lot of
+
+147
+00:06:19,369 --> 00:06:21,649
+an actual limitation which is you need
+
+148
+00:06:21,649 --> 00:06:23,839
+to have a few and you won't be able to
+
+149
+00:06:23,839 --> 00:06:26,479
+do it like boy 3 will spotlight infinite
+
+150
+00:06:26,479 --> 00:06:29,349
+amounts effectively no I mean
+
+151
+00:06:29,349 --> 00:06:33,739
+there wasn't really a cap right so so
+
+152
+00:06:33,739 --> 00:06:35,659
+instead of making it very interesting in
+
+153
+00:06:35,659 --> 00:06:37,639
+my free what it led to was that like
+
+154
+00:06:37,639 --> 00:06:40,009
+people knew how much they need to just
+
+155
+00:06:40,009 --> 00:06:42,199
+dedicated the time to fill that out and
+
+156
+00:06:42,199 --> 00:06:43,610
+then it wasn't really a mission to you
+
+157
+00:06:43,610 --> 00:06:46,339
+anymore we hoped it was still feel like
+
+158
+00:06:46,339 --> 00:06:48,829
+there's an issue now and even we wanted
+
+159
+00:06:48,829 --> 00:06:50,689
+to feel like everything a big impact on
+
+160
+00:06:50,689 --> 00:06:52,699
+your performance if you really go I
+
+161
+00:06:52,699 --> 00:06:54,349
+don't want to have to worry about it I'm
+
+162
+00:06:54,349 --> 00:06:56,360
+gonna build you know good luck my
+
+163
+00:06:56,360 --> 00:06:56,869
+stockpile
+
+164
+00:06:56,869 --> 00:06:58,969
+mm-hmm so I hope you're gonna get that
+
+165
+00:06:58,969 --> 00:07:01,129
+balance right it's very early days so
+
+166
+00:07:01,129 --> 00:07:02,539
+like we haven't really played yesterday
+
+167
+00:07:02,539 --> 00:07:04,219
+with this yet so a lot of stuff could
+
+168
+00:07:04,219 --> 00:07:06,949
+change okay can you give us a quick
+
+169
+00:07:06,949 --> 00:07:10,669
+overview of the other main feature of
+
+170
+00:07:10,669 --> 00:07:13,939
+man the guns yep coming to see just a
+
+171
+00:07:13,939 --> 00:07:16,789
+quick yeah yeah so it's gonna be again
+
+172
+00:07:16,789 --> 00:07:18,759
+it's early so I can't say all that much
+
+173
+00:07:18,759 --> 00:07:22,149
+the focusing heavily on naval warfare
+
+174
+00:07:22,149 --> 00:07:25,969
+you're gonna be able to design ships you
+
+175
+00:07:25,969 --> 00:07:28,759
+can be signing for you know for it to be
+
+176
+00:07:28,759 --> 00:07:29,989
+good of different things ship
+
+177
+00:07:29,989 --> 00:07:31,819
+composition is gonna be a sort of fleet
+
+178
+00:07:31,819 --> 00:07:34,189
+compositions gonna be more important you
+
+179
+00:07:34,189 --> 00:07:36,529
+gotta be able to reflect fleet which
+
+180
+00:07:36,529 --> 00:07:39,319
+means that you all ships you can bring
+
+181
+00:07:39,319 --> 00:07:41,119
+them up it'll be more modern standard
+
+182
+00:07:41,119 --> 00:07:43,669
+this will actually cost you industry so
+
+183
+00:07:43,669 --> 00:07:46,129
+it's not like really repair or anything
+
+184
+00:07:46,129 --> 00:07:46,639
+like that
+
+185
+00:07:46,639 --> 00:07:49,729
+so it'll be a trade-off like do you just
+
+186
+00:07:49,729 --> 00:07:51,979
+want the big fleet UK probably needs a
+
+187
+00:07:51,979 --> 00:07:53,150
+big fleet because it needs to cover
+
+188
+00:07:53,150 --> 00:07:56,150
+lower area a more offensive nation
+
+189
+00:07:56,150 --> 00:07:58,460
+probably will do it like Germany's
+
+190
+00:07:58,460 --> 00:08:00,439
+quality is going to be more important
+
+191
+00:08:00,439 --> 00:08:04,849
+the quantity for example then we are
+
+192
+00:08:04,849 --> 00:08:07,370
+bringing in some focused really gonna be
+
+193
+00:08:07,370 --> 00:08:08,779
+focusing on the walkers is a bit from
+
+194
+00:08:08,779 --> 00:08:10,490
+this and it's too early to talk about
+
+195
+00:08:10,490 --> 00:08:12,550
+the features that will be there for
+
+196
+00:08:12,550 --> 00:08:15,740
+democracies but the big poster poster
+
+197
+00:08:15,740 --> 00:08:19,340
+boy of the expansions America and
+
+198
+00:08:19,340 --> 00:08:20,569
+they're going to be all test three paths
+
+199
+00:08:20,569 --> 00:08:24,759
+where communists income on the rice
+
+200
+00:08:24,759 --> 00:08:27,590
+there's going to be here a potential for
+
+201
+00:08:27,590 --> 00:08:29,120
+a second American Civil War against the
+
+202
+00:08:29,120 --> 00:08:34,070
+South wait like both sides of course you
+
+203
+00:08:34,070 --> 00:08:35,570
+will find out more on the future but
+
+204
+00:08:35,570 --> 00:08:37,610
+exactly how the story is found up to it
+
+205
+00:08:37,610 --> 00:08:40,250
+but but it's possible for them to get
+
+206
+00:08:40,250 --> 00:08:42,559
+support from abroad the trailer has
+
+207
+00:08:42,559 --> 00:08:44,480
+actually you know a german cruiser with
+
+208
+00:08:44,480 --> 00:08:47,209
+aluminum flags now imagine that the
+
+209
+00:08:47,209 --> 00:08:49,339
+germans would benefit from doing kind of
+
+210
+00:08:49,339 --> 00:08:53,329
+supporting this side right okay thanks
+
+211
+00:08:53,329 --> 00:08:56,240
+them for many players i know
+
+212
+00:08:56,240 --> 00:08:59,690
+the AI is one of the biggest issues of
+
+213
+00:08:59,690 --> 00:09:01,880
+heart of iron maybe the big problems for
+
+214
+00:09:01,880 --> 00:09:06,019
+them what are you doing on this front I
+
+215
+00:09:06,019 --> 00:09:08,540
+feel honestly of the way compiler that
+
+216
+00:09:08,540 --> 00:09:12,260
+with the huge strikes of AI that's when
+
+217
+00:09:12,260 --> 00:09:14,209
+I really started seeing people like I'm
+
+218
+00:09:14,209 --> 00:09:15,890
+not sure I can do it anymore daylights
+
+219
+00:09:15,890 --> 00:09:19,310
+beating in the air and starting up
+
+220
+00:09:19,310 --> 00:09:22,220
+oh man the guns the big focus is gonna
+
+221
+00:09:22,220 --> 00:09:25,160
+be on naval a I obviously to match the
+
+222
+00:09:25,160 --> 00:09:27,470
+other stuff because all mostly the name
+
+223
+00:09:27,470 --> 00:09:29,449
+of AI is really weak and it's not very
+
+224
+00:09:29,449 --> 00:09:32,120
+interesting opponent as some of that is
+
+225
+00:09:32,120 --> 00:09:34,459
+just because are credibly punishing
+
+226
+00:09:34,459 --> 00:09:36,860
+making mistake in the naval warfare is
+
+227
+00:09:36,860 --> 00:09:39,500
+you mess up one battle and then you flip
+
+228
+00:09:39,500 --> 00:09:42,829
+this government but the naval air needs
+
+229
+00:09:42,829 --> 00:09:45,140
+to be be smarter and found an
+
+230
+00:09:45,140 --> 00:09:46,590
+interesting opponent right
+
+231
+00:09:46,590 --> 00:09:49,280
+if you can be playing American jealousy
+
+232
+00:09:49,280 --> 00:09:52,020
+expansion the Pacific world I love
+
+233
+00:09:52,020 --> 00:09:54,120
+opening all that is really importantly
+
+234
+00:09:54,120 --> 00:09:55,980
+how you manage your pleats around that
+
+235
+00:09:55,980 --> 00:09:58,530
+right and for that to be found there is
+
+236
+00:09:58,530 --> 00:10:00,000
+to be good at it so that's gonna be a
+
+237
+00:10:00,000 --> 00:10:01,620
+main focus but of course we'd be looking
+
+238
+00:10:01,620 --> 00:10:05,600
+at you know other boxing stuff as well
+
+239
+00:10:05,600 --> 00:10:07,860
+one of the things that we've been kind
+
+240
+00:10:07,860 --> 00:10:11,070
+of wanting to focus on that is gets
+
+241
+00:10:11,070 --> 00:10:13,020
+brought up a lot is this concept of
+
+242
+00:10:13,020 --> 00:10:16,680
+suicide attacks okay I will will will
+
+243
+00:10:16,680 --> 00:10:19,230
+find something that it has failed to to
+
+244
+00:10:19,230 --> 00:10:23,730
+hold any kind of growing itself down so
+
+245
+00:10:23,730 --> 00:10:25,800
+that's I think it's an area is gonna
+
+246
+00:10:25,800 --> 00:10:29,220
+have some improvements because there are
+
+247
+00:10:29,220 --> 00:10:31,400
+some exploits going on there would you
+
+248
+00:10:31,400 --> 00:10:39,720
+be the stronger it seems to me that
+
+249
+00:10:39,720 --> 00:10:41,400
+you're working out of problems very
+
+250
+00:10:41,400 --> 00:10:44,550
+systematically battle plans air war with
+
+251
+00:10:44,550 --> 00:10:46,320
+men the guns the neighbor warfare yeah
+
+252
+00:10:46,320 --> 00:10:48,810
+what are the next big points you want to
+
+253
+00:10:48,810 --> 00:10:54,930
+tackle I almost like to see so the
+
+254
+00:10:54,930 --> 00:10:56,520
+reception isn't the expansion a little
+
+255
+00:10:56,520 --> 00:10:59,970
+bit before we know if you put it this
+
+256
+00:10:59,970 --> 00:11:02,760
+way I think politics is one thing that
+
+257
+00:11:02,760 --> 00:11:06,870
+could do a bit more Allah Akbar instill
+
+258
+00:11:06,870 --> 00:11:09,390
+doesn't have a spy system either Intel
+
+259
+00:11:09,390 --> 00:11:11,630
+and all of that is it's very rudimentary
+
+260
+00:11:11,630 --> 00:11:15,450
+it's based on taxonomy that could be
+
+261
+00:11:15,450 --> 00:11:17,220
+much deeper and for interesting
+
+262
+00:11:17,220 --> 00:11:21,810
+integrate in everything there is a
+
+263
+00:11:21,810 --> 00:11:25,620
+supply the supply system solves the
+
+264
+00:11:25,620 --> 00:11:29,760
+problem right you can get cut off and
+
+265
+00:11:29,760 --> 00:11:32,970
+all that stuff it kind of moved out it
+
+266
+00:11:32,970 --> 00:11:35,400
+simulates the stuff that basically needs
+
+267
+00:11:35,400 --> 00:11:38,580
+to be simulated but it's not that fun to
+
+268
+00:11:38,580 --> 00:11:40,200
+interact with you in fact you're very
+
+269
+00:11:40,200 --> 00:11:41,200
+little interaction
+
+270
+00:11:41,200 --> 00:11:45,399
+notice really when you're in trouble and
+
+271
+00:11:45,399 --> 00:11:47,980
+I think ethically succeeded compared to
+
+272
+00:11:47,980 --> 00:11:49,950
+four three which had a much more
+
+273
+00:11:49,950 --> 00:11:52,870
+detailed system but not necessarily more
+
+274
+00:11:52,870 --> 00:11:55,540
+control but it was very very hard on the
+
+275
+00:11:55,540 --> 00:11:57,490
+stand I think that at least ours is a
+
+276
+00:11:57,490 --> 00:12:01,240
+little better there but I would like
+
+277
+00:12:01,240 --> 00:12:03,639
+that system to be something that and you
+
+278
+00:12:03,639 --> 00:12:07,750
+yourself off the planet you know it's a
+
+279
+00:12:07,750 --> 00:12:10,449
+real game mechanic well that means you
+
+280
+00:12:10,449 --> 00:12:14,230
+know planning depots building railways I
+
+281
+00:12:14,230 --> 00:12:16,870
+don't know right it's in the future but
+
+282
+00:12:16,870 --> 00:12:19,540
+I really want to realize you're planning
+
+283
+00:12:19,540 --> 00:12:21,430
+your offensive also plan like how's your
+
+284
+00:12:21,430 --> 00:12:23,350
+logistical operation gonna be handle
+
+285
+00:12:23,350 --> 00:12:27,040
+this okay for me or to our own it is
+
+286
+00:12:27,040 --> 00:12:28,990
+again more about the planning rather
+
+287
+00:12:28,990 --> 00:12:30,310
+than the tactical bouts
+
+288
+00:12:30,310 --> 00:12:32,649
+so those are generally D'Angelo and I've
+
+289
+00:12:32,649 --> 00:12:37,240
+been pushing them what I must is
+
+290
+00:12:37,240 --> 00:12:40,810
+something like a memo for ideologies do
+
+291
+00:12:40,810 --> 00:12:42,339
+you think about that there are my met
+
+292
+00:12:42,339 --> 00:12:45,130
+modes yes I can't stop thinking about
+
+293
+00:12:45,130 --> 00:12:48,010
+that but it's one of those things that's
+
+294
+00:12:48,010 --> 00:12:50,860
+been like on the quality of life list or
+
+295
+00:12:50,860 --> 00:12:53,110
+a super long time but they always go in
+
+296
+00:12:53,110 --> 00:12:55,420
+there they're always full of it and we
+
+297
+00:12:55,420 --> 00:12:58,329
+don't have time to put them in but also
+
+298
+00:12:58,329 --> 00:13:00,820
+definitely needs something maybe the
+
+299
+00:13:00,820 --> 00:13:03,640
+line of force like you can see which map
+
+300
+00:13:03,640 --> 00:13:05,949
+nodes are gonna be like you know you
+
+301
+00:13:05,949 --> 00:13:07,360
+forget the most important ones being
+
+302
+00:13:07,360 --> 00:13:11,980
+that you care about the wine is mostly
+
+303
+00:13:11,980 --> 00:13:14,070
+mostly player not more than one player
+
+304
+00:13:14,070 --> 00:13:18,490
+yeah so I've received a happening in the
+
+305
+00:13:18,490 --> 00:13:19,930
+future I can't promise for this
+
+306
+00:13:19,930 --> 00:13:22,449
+expansion may be many more okay
+
+307
+00:13:22,449 --> 00:13:25,029
+is there a country that is undervalued
+
+308
+00:13:25,029 --> 00:13:27,399
+by the players so we have given a lot of
+
+309
+00:13:27,399 --> 00:13:31,290
+content but which is barely played hmm
+
+310
+00:13:31,290 --> 00:13:34,440
+it's a good question actually
+
+311
+00:13:34,440 --> 00:13:37,959
+I think some of them or because they're
+
+312
+00:13:37,959 --> 00:13:39,829
+situational
+
+313
+00:13:39,829 --> 00:13:42,629
+Czechoslovakia actually let's go with
+
+314
+00:13:42,629 --> 00:13:46,920
+France mr France as all the lame trees
+
+315
+00:13:46,920 --> 00:13:50,490
+it's done please plate all right when I
+
+316
+00:13:50,490 --> 00:13:52,709
+took two experienced players there was
+
+317
+00:13:52,709 --> 00:13:54,949
+gone at all it's one of my favorites
+
+318
+00:13:54,949 --> 00:13:57,449
+because it has you have a lot of
+
+319
+00:13:57,449 --> 00:13:59,220
+interesting choices and stuff it's quite
+
+320
+00:13:59,220 --> 00:14:02,790
+you know it can be quite difficult and I
+
+321
+00:14:02,790 --> 00:14:04,800
+think a lot of people don't try it
+
+322
+00:14:04,800 --> 00:14:06,779
+because they do not have this conception
+
+323
+00:14:06,779 --> 00:14:09,059
+or you know the other strict sense you
+
+324
+00:14:09,059 --> 00:14:11,279
+set up to lose historically or let's not
+
+325
+00:14:11,279 --> 00:14:13,309
+write mmm
+
+326
+00:14:13,309 --> 00:14:15,569
+it's clearly something that a lot of
+
+327
+00:14:15,569 --> 00:14:18,269
+people like like to play I keep hearing
+
+328
+00:14:18,269 --> 00:14:19,800
+it that's like when they say that the
+
+329
+00:14:19,800 --> 00:14:22,170
+favorite it's the favorite tree to play
+
+330
+00:14:22,170 --> 00:14:24,660
+on it when I look at numbers it's at
+
+331
+00:14:24,660 --> 00:14:28,069
+least played on all the majors okay and
+
+332
+00:14:28,069 --> 00:14:31,319
+what's your personal favorite theater of
+
+333
+00:14:31,319 --> 00:14:33,389
+all right now where do you like to play
+
+334
+00:14:33,389 --> 00:14:40,589
+most I kinda wanna say probably actually
+
+335
+00:14:40,589 --> 00:14:44,670
+Asia of the tiger I think we had a lot
+
+336
+00:14:44,670 --> 00:14:46,019
+of fun stuff going on there
+
+337
+00:14:46,019 --> 00:14:49,379
+I hope was the next one it's gonna be
+
+338
+00:14:49,379 --> 00:14:52,049
+the Pacific okay I am personally not a
+
+339
+00:14:52,049 --> 00:14:53,879
+big fan of playing America because I
+
+340
+00:14:53,879 --> 00:14:55,230
+don't think that I don't have the
+
+341
+00:14:55,230 --> 00:14:57,990
+patience to get into the world
+
+342
+00:14:57,990 --> 00:15:03,059
+yeah so for me I'm hoping we can give a
+
+343
+00:15:03,059 --> 00:15:05,009
+lot more freedom there if I'm a ball to
+
+344
+00:15:05,009 --> 00:15:09,990
+our trade offs but I'm hoping that the
+
+345
+00:15:09,990 --> 00:15:12,029
+Pacific worldly fun I've had some fun
+
+346
+00:15:12,029 --> 00:15:13,769
+times and what if they multiplayer and
+
+347
+00:15:13,769 --> 00:15:15,689
+Pacific you were on stuff like that and
+
+348
+00:15:15,689 --> 00:15:18,619
+I kind of really want to tighten up and
+
+349
+00:15:18,619 --> 00:15:21,420
+that's gonna be the future favorite one
+
+350
+00:15:21,420 --> 00:15:24,480
+mine okay yeah that was it thanks for
+
+351
+00:15:24,480 --> 00:15:26,000
+this interesting interview
+
